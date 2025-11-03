@@ -314,8 +314,7 @@ async def nueva_error(ctx, error):
 async def ranking_error(ctx, error):
     await ctx.send("⚠️ Solo se puede usar en el canal de clasificación correcto.")
 
-# ====== EJECUTAR BOT ======
-bot.run("MTQzNDIxNTI4MDQ1NTcxMzAyMQ.GD2A9Z.DlrT7g2jxlwvr2ljmLnnodhC08_1P30b2h6h1Y")
+
 
 
 
